@@ -1,0 +1,6 @@
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\26_Inheritance\26_Inheritance\bin\Debug\26_Inheritance.exe.config
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\26_Inheritance\26_Inheritance\bin\Debug\26_Inheritance.exe
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\26_Inheritance\26_Inheritance\bin\Debug\26_Inheritance.pdb
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\26_Inheritance\26_Inheritance\obj\Debug\26_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\26_Inheritance\26_Inheritance\obj\Debug\26_Inheritance.exe
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\26_Inheritance\26_Inheritance\obj\Debug\26_Inheritance.pdb

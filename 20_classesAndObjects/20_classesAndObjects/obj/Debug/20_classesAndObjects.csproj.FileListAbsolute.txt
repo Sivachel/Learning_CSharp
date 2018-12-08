@@ -1,0 +1,7 @@
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\20_classesAndObjects\20_classesAndObjects\bin\Debug\20_classesAndObjects.exe.config
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\20_classesAndObjects\20_classesAndObjects\bin\Debug\20_classesAndObjects.exe
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\20_classesAndObjects\20_classesAndObjects\bin\Debug\20_classesAndObjects.pdb
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\20_classesAndObjects\20_classesAndObjects\obj\Debug\20_classesAndObjects.csprojAssemblyReference.cache
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\20_classesAndObjects\20_classesAndObjects\obj\Debug\20_classesAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\20_classesAndObjects\20_classesAndObjects\obj\Debug\20_classesAndObjects.exe
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\20_classesAndObjects\20_classesAndObjects\obj\Debug\20_classesAndObjects.pdb

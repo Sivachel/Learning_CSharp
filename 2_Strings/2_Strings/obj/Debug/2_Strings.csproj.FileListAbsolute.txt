@@ -1,0 +1,7 @@
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\2_Strings\2_Strings\bin\Debug\2_Strings.exe.config
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\2_Strings\2_Strings\bin\Debug\2_Strings.exe
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\2_Strings\2_Strings\bin\Debug\2_Strings.pdb
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\2_Strings\2_Strings\obj\Debug\2_Strings.csprojAssemblyReference.cache
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\2_Strings\2_Strings\obj\Debug\2_Strings.csproj.CoreCompileInputs.cache
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\2_Strings\2_Strings\obj\Debug\2_Strings.exe
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\2_Strings\2_Strings\obj\Debug\2_Strings.pdb

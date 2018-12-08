@@ -1,0 +1,6 @@
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\6_MadLipsGame\6_MadLipsGame\bin\Debug\6_MadLipsGame.exe.config
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\6_MadLipsGame\6_MadLipsGame\bin\Debug\6_MadLipsGame.exe
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\6_MadLipsGame\6_MadLipsGame\bin\Debug\6_MadLipsGame.pdb
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\6_MadLipsGame\6_MadLipsGame\obj\Debug\6_MadLipsGame.csproj.CoreCompileInputs.cache
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\6_MadLipsGame\6_MadLipsGame\obj\Debug\6_MadLipsGame.exe
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\6_MadLipsGame\6_MadLipsGame\obj\Debug\6_MadLipsGame.pdb

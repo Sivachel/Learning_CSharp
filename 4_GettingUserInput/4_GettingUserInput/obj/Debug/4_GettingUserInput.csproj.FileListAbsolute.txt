@@ -1,0 +1,7 @@
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\4_GettingUserInput\4_GettingUserInput\bin\Debug\4_GettingUserInput.exe.config
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\4_GettingUserInput\4_GettingUserInput\bin\Debug\4_GettingUserInput.exe
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\4_GettingUserInput\4_GettingUserInput\bin\Debug\4_GettingUserInput.pdb
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\4_GettingUserInput\4_GettingUserInput\obj\Debug\4_GettingUserInput.csprojAssemblyReference.cache
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\4_GettingUserInput\4_GettingUserInput\obj\Debug\4_GettingUserInput.csproj.CoreCompileInputs.cache
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\4_GettingUserInput\4_GettingUserInput\obj\Debug\4_GettingUserInput.exe
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\4_GettingUserInput\4_GettingUserInput\obj\Debug\4_GettingUserInput.pdb

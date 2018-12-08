@@ -1,0 +1,6 @@
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\24_StaticClassAttributes\24_StaticClassAttributes\bin\Debug\24_StaticClassAttributes.exe.config
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\24_StaticClassAttributes\24_StaticClassAttributes\bin\Debug\24_StaticClassAttributes.exe
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\24_StaticClassAttributes\24_StaticClassAttributes\bin\Debug\24_StaticClassAttributes.pdb
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\24_StaticClassAttributes\24_StaticClassAttributes\obj\Debug\24_StaticClassAttributes.csproj.CoreCompileInputs.cache
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\24_StaticClassAttributes\24_StaticClassAttributes\obj\Debug\24_StaticClassAttributes.exe
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\24_StaticClassAttributes\24_StaticClassAttributes\obj\Debug\24_StaticClassAttributes.pdb

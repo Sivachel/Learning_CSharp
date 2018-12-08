@@ -1,0 +1,36 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace _11_MoreIfStatements
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine(GetMax(200, 10, 55));
+
+
+            Console.ReadLine();
+        }
+
+        static int GetMax(int num1, int num2, int num3)
+        {
+            int result;
+            if (num1 >= num2 && num1 >= num3) // >=, <=, ==, != comparison operators
+            {
+                result = num1;
+            }else if (num2 >= num1 && num2 >= num3)
+            {
+                result = num2;
+            }
+            else 
+            {
+                result = num3;
+            }
+            return result;
+        }
+    }
+}

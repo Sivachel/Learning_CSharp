@@ -1,0 +1,6 @@
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\25_staticMethodsAndClasses\25_staticMethodsAndClasses\obj\Debug\25_staticMethodsAndClasses.csproj.CoreCompileInputs.cache
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\25_staticMethodsAndClasses\25_staticMethodsAndClasses\bin\Debug\25_staticMethodsAndClasses.exe.config
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\25_staticMethodsAndClasses\25_staticMethodsAndClasses\bin\Debug\25_staticMethodsAndClasses.exe
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\25_staticMethodsAndClasses\25_staticMethodsAndClasses\bin\Debug\25_staticMethodsAndClasses.pdb
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\25_staticMethodsAndClasses\25_staticMethodsAndClasses\obj\Debug\25_staticMethodsAndClasses.exe
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\25_staticMethodsAndClasses\25_staticMethodsAndClasses\obj\Debug\25_staticMethodsAndClasses.pdb

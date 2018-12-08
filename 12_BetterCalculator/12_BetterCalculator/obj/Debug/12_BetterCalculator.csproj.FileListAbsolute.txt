@@ -1,0 +1,6 @@
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\12_BetterCalculator\12_BetterCalculator\obj\Debug\12_BetterCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\12_BetterCalculator\12_BetterCalculator\bin\Debug\12_BetterCalculator.exe.config
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\12_BetterCalculator\12_BetterCalculator\bin\Debug\12_BetterCalculator.exe
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\12_BetterCalculator\12_BetterCalculator\bin\Debug\12_BetterCalculator.pdb
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\12_BetterCalculator\12_BetterCalculator\obj\Debug\12_BetterCalculator.exe
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\12_BetterCalculator\12_BetterCalculator\obj\Debug\12_BetterCalculator.pdb

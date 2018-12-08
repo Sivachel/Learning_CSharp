@@ -1,0 +1,7 @@
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\3_Numbers\3_Numbers\bin\Debug\3_Numbers.exe.config
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\3_Numbers\3_Numbers\bin\Debug\3_Numbers.exe
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\3_Numbers\3_Numbers\bin\Debug\3_Numbers.pdb
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\3_Numbers\3_Numbers\obj\Debug\3_Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\3_Numbers\3_Numbers\obj\Debug\3_Numbers.exe
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\3_Numbers\3_Numbers\obj\Debug\3_Numbers.pdb
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\3_Numbers\3_Numbers\obj\Debug\3_Numbers.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\5_calculator\5_calculator\obj\Debug\5_calculator.csproj.CoreCompileInputs.cache
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\5_calculator\5_calculator\bin\Debug\5_calculator.exe.config
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\5_calculator\5_calculator\bin\Debug\5_calculator.exe
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\5_calculator\5_calculator\bin\Debug\5_calculator.pdb
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\5_calculator\5_calculator\obj\Debug\5_calculator.exe
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\5_calculator\5_calculator\obj\Debug\5_calculator.pdb

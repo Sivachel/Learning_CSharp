@@ -1,0 +1,7 @@
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\17_ExponentMethod\17_ExponentMethod\obj\Debug\17_ExponentMethod.csprojAssemblyReference.cache
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\17_ExponentMethod\17_ExponentMethod\obj\Debug\17_ExponentMethod.csproj.CoreCompileInputs.cache
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\17_ExponentMethod\17_ExponentMethod\bin\Debug\17_ExponentMethod.exe.config
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\17_ExponentMethod\17_ExponentMethod\bin\Debug\17_ExponentMethod.exe
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\17_ExponentMethod\17_ExponentMethod\bin\Debug\17_ExponentMethod.pdb
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\17_ExponentMethod\17_ExponentMethod\obj\Debug\17_ExponentMethod.exe
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\17_ExponentMethod\17_ExponentMethod\obj\Debug\17_ExponentMethod.pdb

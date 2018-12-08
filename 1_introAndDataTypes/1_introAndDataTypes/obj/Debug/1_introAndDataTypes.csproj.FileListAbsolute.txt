@@ -1,0 +1,7 @@
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\1_introAndDataTypes\1_introAndDataTypes\obj\Debug\1_introAndDataTypes.csprojAssemblyReference.cache
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\1_introAndDataTypes\1_introAndDataTypes\obj\Debug\1_introAndDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\1_introAndDataTypes\1_introAndDataTypes\bin\Debug\1_introAndDataTypes.exe.config
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\1_introAndDataTypes\1_introAndDataTypes\bin\Debug\1_introAndDataTypes.exe
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\1_introAndDataTypes\1_introAndDataTypes\bin\Debug\1_introAndDataTypes.pdb
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\1_introAndDataTypes\1_introAndDataTypes\obj\Debug\1_introAndDataTypes.exe
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\1_introAndDataTypes\1_introAndDataTypes\obj\Debug\1_introAndDataTypes.pdb

@@ -1,0 +1,7 @@
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\23_GettersAndSetters\23_GettersAndSetters\bin\Debug\23_GettersAndSetters.exe.config
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\23_GettersAndSetters\23_GettersAndSetters\bin\Debug\23_GettersAndSetters.exe
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\23_GettersAndSetters\23_GettersAndSetters\bin\Debug\23_GettersAndSetters.pdb
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\23_GettersAndSetters\23_GettersAndSetters\obj\Debug\23_GettersAndSetters.csprojAssemblyReference.cache
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\23_GettersAndSetters\23_GettersAndSetters\obj\Debug\23_GettersAndSetters.csproj.CoreCompileInputs.cache
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\23_GettersAndSetters\23_GettersAndSetters\obj\Debug\23_GettersAndSetters.exe
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\23_GettersAndSetters\23_GettersAndSetters\obj\Debug\23_GettersAndSetters.pdb

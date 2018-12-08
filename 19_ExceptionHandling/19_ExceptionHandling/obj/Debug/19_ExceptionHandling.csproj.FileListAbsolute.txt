@@ -1,0 +1,7 @@
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\19_ExceptionHandling\19_ExceptionHandling\obj\Debug\19_ExceptionHandling.csprojAssemblyReference.cache
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\19_ExceptionHandling\19_ExceptionHandling\obj\Debug\19_ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\19_ExceptionHandling\19_ExceptionHandling\bin\Debug\19_ExceptionHandling.exe.config
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\19_ExceptionHandling\19_ExceptionHandling\bin\Debug\19_ExceptionHandling.exe
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\19_ExceptionHandling\19_ExceptionHandling\bin\Debug\19_ExceptionHandling.pdb
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\19_ExceptionHandling\19_ExceptionHandling\obj\Debug\19_ExceptionHandling.exe
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\19_ExceptionHandling\19_ExceptionHandling\obj\Debug\19_ExceptionHandling.pdb

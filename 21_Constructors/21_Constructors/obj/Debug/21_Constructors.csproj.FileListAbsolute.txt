@@ -1,0 +1,7 @@
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\21_Constructors\21_Constructors\obj\Debug\21_Constructors.csprojAssemblyReference.cache
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\21_Constructors\21_Constructors\obj\Debug\21_Constructors.csproj.CoreCompileInputs.cache
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\21_Constructors\21_Constructors\bin\Debug\21_Constructors.exe.config
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\21_Constructors\21_Constructors\bin\Debug\21_Constructors.exe
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\21_Constructors\21_Constructors\bin\Debug\21_Constructors.pdb
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\21_Constructors\21_Constructors\obj\Debug\21_Constructors.exe
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\21_Constructors\21_Constructors\obj\Debug\21_Constructors.pdb

@@ -1,0 +1,6 @@
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\22_objectMethods\22_objectMethods\bin\Debug\22_objectMethods.exe.config
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\22_objectMethods\22_objectMethods\bin\Debug\22_objectMethods.exe
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\22_objectMethods\22_objectMethods\bin\Debug\22_objectMethods.pdb
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\22_objectMethods\22_objectMethods\obj\Debug\22_objectMethods.csproj.CoreCompileInputs.cache
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\22_objectMethods\22_objectMethods\obj\Debug\22_objectMethods.exe
+C:\Users\Raj\Desktop\FreeCodeCamp\C#\22_objectMethods\22_objectMethods\obj\Debug\22_objectMethods.pdb
